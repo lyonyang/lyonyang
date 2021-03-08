@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 加油, 淦饭人 👋
+
 ![](https://github-readme-stats.vercel.app/api?username=lyonyang&show_icons=true)
 
-### 加油, 淦饭人 👋
+
