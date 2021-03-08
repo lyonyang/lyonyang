@@ -1,7 +1,3 @@
-<img src="https://github-readme-stats.vercel.app/api?username=lyonyang&show_icons=true" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
-
-### Hi there 👋
-
 <!--
 **lyonyang/lyonyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github-readme-stats.vercel.app/api?username=lyonyang&show_icons=true)
+
+### 加油, 淦饭人 👋
