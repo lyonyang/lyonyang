@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 #### 要么出众, 要么出局。
 
-#### 要么牛逼, 要么滚蛋。
 
 ![](https://github-readme-stats.vercel.app/api?username=lyonyang&show_icons=true)
 
