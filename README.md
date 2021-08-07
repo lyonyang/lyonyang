@@ -13,11 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Go big or go home 👋
-
-#### 要么出众, 要么出局。
-
-
 ![](https://github-readme-stats.vercel.app/api?username=lyonyang&show_icons=true)
 
 
