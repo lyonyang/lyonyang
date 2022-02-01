@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=lyonyang&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
+</p>
 
 ![](https://github-readme-stats.vercel.app/api?username=lyonyang&show_icons=true)
 
